@@ -26,3 +26,7 @@
 <h1>구글설문지 예시</h1>
 <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSeNp8_NwLAA4_ABfYUbPin9wZpnmbOtHjyX_EWwznTBxc08Ug/viewform">구글설문지 예시</a></h2>
 
+
+<hr>
+<h1>동영상 편집(캡컷)</h1>
+<h2><a href="https://www.capcut.com/ko-kr/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&utm_campaign=video&pid=359289&af_c_id=23559197408&adset_id=188419099570&ad_id=797169936441&placement=&keyword=%EC%BA%A1%EC%BB%B7&targetid=kwd-">캡컷</a></h2>
